@@ -1,2 +1,2 @@
 # svelte-table
-Simple yet powerful Svelte Table
+Simple yet powerful Table Plugin for Svelte
